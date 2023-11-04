@@ -1,10 +1,5 @@
 # Инструкция по запуску приложения
 
-git clone https://github.com/ReZible/hacker-news-app.git
-cd hacker-news-app
-yarn install
-yarn start
-
 -   Склонируйте репозиторий с помощью команды git clone https://github.com/ReZible/hacker-news-app.git
 -   перейдите в папку проекта cd hacker-news-app
 -   установки всех зависимости с помощью yarn install
